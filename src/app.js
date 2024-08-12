@@ -6,7 +6,8 @@ import cors from 'cors';
 const app = express();
 
 // app.use(cors());
-app.use(cors({ origin: 'https://banner-fronend-m4e8.vercel.app/' }));
+app.use(cors({ origin: 'banner-fronend-m4e8-git-master-amitgiri2001s-projects.vercel.app
+' }));
 app.use(express.json());
 
 // Routes
