@@ -6,7 +6,7 @@ import cors from 'cors';
 const app = express();
 
 // app.use(cors());
-app.use(cors({ origin: 'http://localhost:3000' }));
+app.use(cors({ origin: 'https://banner-fronend-m4e8.vercel.app/' }));
 app.use(express.json());
 
 // Routes
