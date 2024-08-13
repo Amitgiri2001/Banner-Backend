@@ -12,7 +12,9 @@ const allowedOrigins = [
     'http://localhost:3000',
     'http://ec2-43-205-255-15.ap-south-1.compute.amazonaws.com',
     'http://ec2-43-205-255-15.ap-south-1.compute.amazonaws.com/dashboard',
-    'https://banner-fronend-m4e8-git-master-amitgiri2001s-projects.vercel.app'
+    'https://banner-fronend-m4e8-git-master-amitgiri2001s-projects.vercel.app',
+    'http://my-frontennd.s3-website.ap-south-1.amazonaws.com',
+    'http://my-frontennd.s3-website.ap-south-1.amazonaws.com/dashboard'
 ];
 
 // CORS configuration
